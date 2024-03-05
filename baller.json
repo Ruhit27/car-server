@@ -1,0 +1,32 @@
+{
+    "footballers": [
+      {
+        "id": 1,
+        "name": "Lionel Messi",
+        "position": "Forward",
+        "team": "Paris Saint-Germain",
+        "nationality": "Argentina",
+        "goals": 672,
+        "assists": 268
+      },
+      {
+        "id": 2,
+        "name": "Cristiano Ronaldo",
+        "position": "Forward",
+        "team": "Manchester United",
+        "nationality": "Portugal",
+        "goals": 689,
+        "assists": 223
+      },
+      {
+        "id": 3,
+        "name": "Neymar Jr",
+        "position": "Forward",
+        "team": "Paris Saint-Germain",
+        "nationality": "Brazil",
+        "goals": 305,
+        "assists": 174
+      }
+    ]
+  }
+  
